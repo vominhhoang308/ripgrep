@@ -1,4 +1,4 @@
-name: Benchmark on Avrea
+name: Benchmark on Github
 on:
   workflow_dispatch:
 jobs:
